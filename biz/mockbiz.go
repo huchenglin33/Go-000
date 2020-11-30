@@ -1,8 +1,8 @@
 package biz
 
 import (
+	"Go-000/Week02/dao"
 	"github.com/pkg/errors"
-	"jike/dao"
 )
 
 type mockBiz struct {
